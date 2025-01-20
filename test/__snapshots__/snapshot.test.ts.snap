@@ -1,0 +1,25 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`"a
+b".split("") 1`] = `
+[
+  "a",
+  "
+",
+  "
+",
+  "b",
+]
+`;
+
+exports[`"a
+b".split("") 1`] = `
+[
+  "a",
+  "
+",
+  "
+",
+  "b",
+]
+`;
