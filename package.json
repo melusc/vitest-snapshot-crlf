@@ -2,7 +2,7 @@
 	"type": "module",
 	"packageManager": "yarn@4.6.0",
 	"devDependencies": {
-		"vitest": "^3.0.2"
+		"vitest": "^3.0.5"
 	},
 	"scripts": {
 		"test": "vitest run"
